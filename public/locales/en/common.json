@@ -1,0 +1,19 @@
+{
+    "product_management": "Product Management Panel",
+    "product_list": "Product List",
+    "add_product": "Add Product",
+    "update_product": "Update Product",
+    "delete_product": "Delete",
+    "sort_by_price": "Sort by Price",
+    "sort_by_popularity": "Sort by Popularity",
+    "sort_by_date": "Sort by Date",
+    "product_name": "Product Name",
+    "price": "Price",
+    "brand": "Brand",
+    "color": "Color",
+    "save": "Save",
+    "category" : "category",
+    "description" : "description"
+    
+  }
+  
